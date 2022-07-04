@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml)
+# Awesome Revolt 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -63,6 +63,8 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
+- [AutoMod](https://github.com/janderedev/automod) - Basic and automated moderation with a Discord - Revolt bridge.
+- [MonkeBot](https://github.com/4444dogs/MonkeBot) - A simple bot for Gorilla Tag players.
 
 ## 🎨 Themes
 
@@ -92,4 +94,4 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 
 ### Contributors
 
-<!-- [Thanks goes to these contributors](https://github.com/insertish/awesome-revolt/graphs/contributors)! -->
+<!-- [Thanks goes to these contributors](https://github.com/4444dogs/awesome-revolt-2/graphs/contributors)! -->
